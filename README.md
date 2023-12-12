@@ -10,8 +10,8 @@ In Partial Fulfillment of the Requirements for
 IT 311 - 9473
 Application Development
 
-#Collaborative Tools
-Finals Project Documentation
+Collaborative Tools
+Finals Project Repoistory for Activity History
 
 Submitted to:
 Mr. Roderick Makil
