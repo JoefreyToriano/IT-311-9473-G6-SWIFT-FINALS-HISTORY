@@ -17,14 +17,15 @@ Finals Project Repoistory for Activity History
 Mr. Roderick Makil
 
 # Submitted by:
-ANGWAY, Khenler
-ANGWAY, Timothy Jue
-AZURIN, John Arvin Dale
-CLEMENTE, Lise
-HUFALAR, Jekka Menna
-GANGAN, William Sylvester
-TORIANO, Joefrey
+  1. ANGWAY, Khenler
+  2. ANGWAY, Timothy Jue
+  3. AZURIN, John Arvin Dale
+  4. CLEMENTE, Lise
+  5. HUFALAR, Jekka Menna
+  6. GANGAN, William Sylvester
+  7. TORIANO, Joefrey
 
+# Submitted on:
 December 2023
 
 
