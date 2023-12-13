@@ -40,6 +40,7 @@ class Account {
         self.firstName = firstName
         self.lastName = lastName
         self.address = address
+     
     } // end of init Method
 } // end of Account
 
