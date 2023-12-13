@@ -31,6 +31,7 @@ print("Choice 3: Calculate the area of a sphere")
 print("Choice 4: Calculate the area of a cylinder")
 print("Choice 5: Calculate the area of an octagon")
 print("Choice 6: Calculate the area of a rhombus")
+print("Choice 0: Exit")
 
 if let choice = readLine(), let choiceInt = Int(choice) {
     switch choiceInt {
@@ -46,6 +47,9 @@ if let choice = readLine(), let choiceInt = Int(choice) {
       // enter cyclinder code here
     case 6:
       // enter rhombus code here
+    case 0:
+        print("Exiting the program.")
+        exit(0)
     default:
         print("Invalid choice.")
     }
