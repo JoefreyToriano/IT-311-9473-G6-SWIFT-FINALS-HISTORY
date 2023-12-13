@@ -10,13 +10,13 @@ In Partial Fulfillment of the Requirements for
 IT 311 - 9473
 Application Development
 
-Collaborative Tools
+# Collaborative Tools
 Finals Project Repoistory for Activity History
 
-Submitted to:
+# Submitted to:
 Mr. Roderick Makil
 
-Submitted by:
+# Submitted by:
 ANGWAY, Khenler
 ANGWAY, Timothy Jue
 AZURIN, John Arvin Dale
