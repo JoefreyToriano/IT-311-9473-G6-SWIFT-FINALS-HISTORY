@@ -263,6 +263,13 @@ func main() {
             print("^      . . . . . . . . . . . . . . . . . . .        ^")
             print("                                                     ")
             running = false
+        case 5:
+            print("                                                     ")
+            print("^      . . . . . . . . . . . . . . . . . . .        ^")
+            print("^               Bonus Secret Option!                ^")
+            print("^      . . . . . . . . . . . . . . . . . . .        ^")
+            print("                                                     ")
+            running = false
         default:
             print("^                                                   ^")
             print("^      Opps! Invalid input. Please try again.       ^")
